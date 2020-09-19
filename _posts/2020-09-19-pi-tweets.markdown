@@ -1,0 +1,20 @@
+---
+title: "Raspberry Pi as Watchdog :eyes:"
+layout: post
+date: 2020-09-19 21:30
+tag: 'raspberry pi"
+image: /assets/images/raspberrypi.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A Raspberry Pi (Zero) checks whether home network stuff behaves."
+category: project
+author: axel
+externalLink: false
+---
+
+At home I have a [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) that needs entertainment.
+It's watching a set of servers I feel responsible for, and tweets when things are down.
+I usually know way in advance of any other tool that there's a problem.
+
+You also have a RasPi? Try it for yourself: [pitwibot](https://github.com/karies/pitwibot)
