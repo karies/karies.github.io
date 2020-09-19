@@ -50,7 +50,7 @@ stackoverflow: 6182509/axel-naumann
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: myemail@gmail.com
-gpg: /gpgkey
+gpg: /assets/Axel\ Naumann\ \(0BD7882D\).asc
 
 authors:
   axel:
