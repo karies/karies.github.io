@@ -2,7 +2,7 @@
 title: "Raspberry Pi as Watchdog :eyes:"
 layout: post
 date: 2020-09-19
-tag: 'raspberry pi"
+tag: "raspberry pi"
 image: /assets/images/raspberrypi.png
 headerImage: true
 projects: true
