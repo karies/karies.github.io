@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>This place is my wall; I get to scrbble here.</p>
+<p>This place is my wall; I get to scribble here, about things that might be useful to share with the world.</p>
 
 <h2>Work</h2>
 <p>Most of my fun projects are work-related. Lucky me :-)</p>
