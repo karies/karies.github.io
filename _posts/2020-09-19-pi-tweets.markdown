@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi as Watchdog for Webservers :saferty_pin:"
+title: "Raspberry Pi as Watchdog for Webservers :safety_pin:"
 layout: post
 date: 2020-09-19
 tag: "raspberry pi"
