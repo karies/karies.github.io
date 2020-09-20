@@ -7,7 +7,7 @@ image: /assets/images/raspberrypi.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "A Raspberry Pi (Zero) checks whether home network stuff behaves."
+description: "A Raspberry Pi (Zero) checks whether servers are up."
 category: project
 author: axel
 externalLink: false
