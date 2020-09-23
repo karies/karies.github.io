@@ -116,5 +116,6 @@ we can talk to you about COVID-19 data analysis over a beer or orange juice, but
 
 ## tl;dr
 
-With experimental physics data and COVID-19 data being fundamentally different, physicists' expertise cannot be mapped 1:1 onto COVID-19 data.
-Physicists' results on COVIDD-19 data are thus not to be trusted, unless the analysis has been peer-reviewed by actual COVID-19 experts, be it virologists or physicians, depending on the study at hand.
+Experimental high energy physics data and COVID-19 data are fundamentally different.
+Physicists' expertise cannot generally be mapped 1:1 onto COVID-19 data.
+Physicists' results on COVID-19 data are thus not to be trusted, unless peer-reviewed by actual COVID-19 experts, be it virologists or physicians, depending on the study at hand.
